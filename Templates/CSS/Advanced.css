@@ -1,0 +1,39 @@
+.Font{
+margin-top: -25px;
+margin-left: 5px;
+text-align: left;
+font-size: 30px;
+color: #0000ff;
+}
+.Search{
+text-align: center;
+}
+.Other{
+text-align: right;
+padding-top: 10px;
+padding-right: 50px;
+font-size: 15px;
+}
+.AdvancedSearch{
+text-align: left;
+margin-top: 30px;
+margin-left: 40px;
+font-size: 23px;
+color: red;
+}
+.hh3{
+text-align:left;
+margin-left: 40px;
+margin-top: 70px;
+margin-bottom: -25px;
+font-size: 20px;
+}
+.hh4{
+text-align: left;
+margin-left: 40px;
+}
+.hh5{
+text-align:center;
+padding-top:100px;
+font-size:15px;
+}
